@@ -1,12 +1,17 @@
-# Does the size of a household impact ability to obtain higher education
+## Group project to analyze - Does the size of a household impact ability to obtain higher education
 
-# Hypothesis
+#Files of interest in this reposiory
+Team Dingo-2-2.pptx - powerpoint reviewed in class
+JupyterNotebooks\Edu_vs_Famv2.ipynb  - cleaned Jupyter notebook with calculations and charts used in powerpoint
+JupyterNotebooks\Merged.csv - final csv data file used in our final calcuations and charts
+Chart images are the .png files located in JupyterNotebooks folder
+
+# Null/Alternative Hypothesis
 Ho : The household size has no impact on the ability to obtain higher education
 HA: The household size does have impact on the ability to obtain higher education
 
 # Data Sources:
-Specifically American Community Survey (ACS) 2019 data tables
-We also looked a Kaggle data and Statista.  Kaggle didn't have what we were looking for and Statista required payment
+We looked a Kaggle and Statista website data.  Kaggle didn't have what we were looking for and Statista required payment
 In the end we found both household and education data in 2019 household census data
 Specifically we used the census American Community Survey (ACS) 2019 data tables
 
